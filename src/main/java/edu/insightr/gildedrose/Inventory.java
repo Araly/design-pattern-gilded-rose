@@ -91,4 +91,9 @@ public class Inventory {
             inventory.printInventory();
         }
     }
+
+    /* public void superTruc() {
+        Visitor visitor = new visitor();
+
+    }*/
 }
